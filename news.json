@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date": "2020/09/23",
+    "title": "【お知らせ】Akerun Proソフトウェアアップデート",
+    "message": "ソフトウェアのアップデートはAkerunアプリを用いてお客様ご自身で実施いただきます。お知らせ記事をご参照ください。",
+    "link": "https://support.akerun.com/hc/ja/articles/360049663451"
+  },
+  {
+    "id": 2,
+    "date": "2020/10/05",
+    "title": "【重要なお知らせ】Akerun入退室管理システム利用規約改定",
+    "message": "2020年10月19日（月）より「Akerun入退室管理システム利用規約」の一部を改定します。詳細はお知らせ記事をご参照ください。",
+    "link": "https://support.akerun.com/hc/ja/articles/360050127992"
+  },
+  {
+    "id": 3,
+    "date": "2020/10/07",
+    "title": "【お知らせ】KING OF TIMEバージョンアップに伴う一時連携停止",
+    "message": "メンテナンス中はKING OF TIMEとAkerun入退室管理システムの連携がご利用いただけなくなります。",
+    "link": "https://support.akerun.com/hc/ja/articles/360050204532"
+  }
+]
